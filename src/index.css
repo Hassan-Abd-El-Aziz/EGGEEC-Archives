@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;500;600;700;800;900&display=swap");
+@import "tailwindcss";
+@theme {
+  --color-primary-dark: #0a1a3a;
+  --color-primary-light: #3b82f6;
+  --color-primary-blue: #7c2d12;
+  --color-secondary-gold: #f5e8b0;
+  --color-secondary-lightGold: #f5e8b0;
+  --color-secondary-light: #f5e8b0;
+}
+
+@layer base {
+  html {
+    font-family: "Cairo", "Noto Sans Arabic", sans-serif;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+  }
+
+  body {
+    @apply bg-gray-50 text-gray-800;
+    direction: rtl;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-secondary-gold text-primary-dark px-6 py-3 rounded-lg font-bold 
+           hover:bg-yellow-500 transition-all duration-300 transform hover:scale-105 
+           shadow-lg hover:shadow-xl;
+  }
+
+  .btn-secondary {
+    @apply bg-white text-primary-dark border-2 border-secondary-gold px-6 py-3 rounded-lg 
+           font-bold hover:bg-secondary-light transition-all duration-300 
+           shadow-md hover:shadow-lg;
+  }
+
+  .section-padding {
+    @apply py-16 md:py-20 lg:py-24;
+  }
+
+  .card-hover {
+    @apply transition-all duration-300 hover:transform hover:scale-105 
+           hover:shadow-2xl;
+  }
+
+  .glass-effect {
+    @apply backdrop-blur-lg bg-white/80 border border-white/20;
+  }
+}
