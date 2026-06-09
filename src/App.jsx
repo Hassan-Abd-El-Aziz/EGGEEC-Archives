@@ -16,6 +16,7 @@ import Documents from "./pages/Documents";
 import Projects from "./pages/Projects";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
+import { HashRouter } from "react-router-dom";
 
 function App() {
   useEffect(() => {
@@ -27,7 +28,8 @@ function App() {
   }, []);
 
   return (
-    <Router>
+    <HashRouter>
+ 
       <div
         className="min-h-screen flex flex-col bg-gray-50 font-arabic"
         dir="rtl"
@@ -46,7 +48,8 @@ function App() {
         <Footer />
         <ScrollToTop />
       </div>
-    </Router>
+    
+    </HashRouter> 
   );
 }
 
