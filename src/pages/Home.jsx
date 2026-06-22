@@ -16,7 +16,7 @@ const Home = () => {
     gsap.fromTo(
       heroRef.current,
       { opacity: 0, y: 50 },
-      { opacity: 1, y: 0, duration: 1.5, ease: "power3.out" }
+      { opacity: 1, y: 0, duration: 1.5, ease: "power3.out" },
     );
 
     gsap.fromTo(
@@ -31,7 +31,7 @@ const Home = () => {
           trigger: featuresRef.current,
           start: "top 80%",
         },
-      }
+      },
     );
   }, []);
 
@@ -89,7 +89,7 @@ const Home = () => {
       <section className="py-20 bg-primary-dark">
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold text-white mb-8" data-aos="fade-up">
-            مستعدون لبدء مشروعك القادم؟
+            الإطلاع على !
           </h2>
           <div
             className="flex flex-col sm:flex-row gap-4 justify-center"

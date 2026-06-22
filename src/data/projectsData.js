@@ -7,7 +7,7 @@ export const projectsData = [
     endDate: "15 سبتمبر 2024",
     status: "جاري التنفيذ",
     statusColor: "text-green-600 bg-green-50",
-    url: "https://eggeec-my.sharepoint.com/:f:/p/h_abdelaziz/IgA0fKfBsKOYRYsaGm4QPbXtASMhShxX9-jZuxZN8GZO_Aw?email=k.samir%40eggeec.com&e=Ejoc5Q",
+    url: "https://eggeec-my.sharepoint.com/:f:/p/h_abdelaziz/IgDzqrCFdnKAT6W13kyqKotPAbAtD96IC9tExmVN2-uIBPM?e=eV1m39",
 
     progress: 65,
     description: "توريد وتركيب عدد 152 مصعد BLT",
@@ -42,7 +42,7 @@ export const projectsData = [
     endDate: "15 سبتمبر 2024",
     status: "جاري التنفيذ",
     statusColor: "text-green-600 bg-green-50",
-    url: "https://eggeec-my.sharepoint.com/:f:/p/h_abdelaziz/IgA0fKfBsKOYRYsaGm4QPbXtASMhShxX9-jZuxZN8GZO_Aw?email=k.samir%40eggeec.com&e=Ejoc5Q",
+    url: "https://eggeec-my.sharepoint.com/:f:/p/h_abdelaziz/IgAm0sfkXNU7RbyIvMCWlpo9AeNXseOmdf4ECRCw_A07N-o?e=QghVWM",
 
     progress: 70,
     description: "توريد وتركيب عدد 80 مصعد BLT",
@@ -110,7 +110,7 @@ export const projectsData = [
     endDate: "00 00 0000",
     status: "جاري التنفيذ",
     statusColor: "text-blue-600 bg-blue-50",
-    url: "https://onedrive.live.com/embed?resid=XXXXXXXXXX&authkey=!XXXXXXXXXX",
+    url: "https://eggeec-my.sharepoint.com/:f:/p/h_abdelaziz/IgD-AX6c-obwRpBIYC_0hzOMARCUwaMsHqnTBG3o4zk_GaI?e=sKkW1d",
     progress: 100,
     description: "توريد وتركيب عدد 79 مصعد ",
     client: "هنا اسم العميل",
