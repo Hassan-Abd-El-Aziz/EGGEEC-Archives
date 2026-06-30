@@ -5,7 +5,7 @@ export const documentsData = [
     type: "PDF",
     category: "قسم إدارة الصيانة",
     categoryColor: "bg-blue-100 text-blue-800",
-    url: "https://eggeec-my.sharepoint.com/my?id=%2Fpersonal%2Fh%5Fabdelaziz%5Feggeec%5Fcom%2FDocuments%2F%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9%2F%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9%2FBO%20%2D%20%D9%85%D8%B4%D8%B1%D9%88%D8%B9%20%D8%A3%D8%B1%D8%B6%20%D8%A7%D9%84%D8%A8%D8%AD%D9%88%D8%AB%201&viewid=a0d988a5%2D7144%2D409a%2D8135%2D16c185a75639",
+    url: "https://eggeec-my.sharepoint.com/:f:/p/h_abdelaziz/IgBO_WOlu4_MQoKX3ZjIu1InAZiuuJJnShTrzneJ6IYF3JM?e=xkfqbt",
     size: "2.4 MB",
     date: "15 أكتوبر 2025",
     description: "النماذج المعتمدة للعقود مع العملاء والموردين",
