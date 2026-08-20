@@ -145,7 +145,7 @@ export const projectsData = [
     endDate: "00 00 0000",
     status: "جاري التنفيذ",
     statusColor: "text-blue-600 bg-blue-50",
-    url: "https://eggeec-my.sharepoint.com/:f:/p/h_abdelaziz/IgD-AX6c-obwRpBIYC_0hzOMARCUwaMsHqnTBG3o4zk_GaI?e=aYvDzx",
+    url: "https://eggeec-my.sharepoint.com/:f:/p/h_abdelaziz/IgD-AX6c-obwRpBIYC_0hzOMARCUwaMsHqnTBG3o4zk_GaI?e=s0kovE",
     progress: 38,
     description: "توريد وتركيب عدد 79 مصعد ",
     client: "هنا اسم العميل",
